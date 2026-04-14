@@ -14,10 +14,12 @@
 - atleast 700k
 
 **Goals**
-- have at least 1 commit every single day
-- get better at C++
+- have at least commit every single day
+- get better at C++ and other languages
 - understand Android internals
 - get into reverse engineering arm/x86
+- build my own AOSP
+- and build a modmenu
 
 ---
 
