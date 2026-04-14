@@ -19,7 +19,7 @@
 - understand Android internals
 - get into reverse engineering arm/x86
 - build my own AOSP
-- and build a modmenu
+- and build a mod menu
 
 ---
 
